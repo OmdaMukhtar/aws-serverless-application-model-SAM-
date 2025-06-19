@@ -18,7 +18,8 @@ sam-python-app/
 ```
 
 ## Requirements
-- Python 3.13^
+- Install Python 3.13^
+- Install SAM CLI
 
 ## Commands you can use next
 =========================
@@ -34,3 +35,10 @@ sam local invoke HelloWorldFunction --event event.json
 
 Then go aws ApiGateway service
 ![alt text](image.png)
+
+
+## Start Testing Localy
+- To run the api locally execut this command:
+``sam local start-api``
+
+![alt text](image-1.png)
