@@ -1,0 +1,7 @@
+{
+  "resource": "/hello",
+  "httpMethod": "GET",
+  "queryStringParameters": {
+    "name": "ProfesionalDevOpsEngineer"
+  }
+}
